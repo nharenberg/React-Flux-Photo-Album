@@ -1,1 +1,1 @@
-# MERN Todo App w/ Flux
+# MERN Photo Album App w/ Flux
